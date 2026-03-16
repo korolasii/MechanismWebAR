@@ -1,0 +1,3 @@
+[submodule "MechanismWebAR"]
+	path = MechanismWebAR
+	url = https://github.com/korolasii/MechanismWebAR.git
